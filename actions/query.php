@@ -39,4 +39,4 @@ foreach ($products as $product) { ?>
             </div>
         </div>
     </div>
- }
+<?php }
